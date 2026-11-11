@@ -1,0 +1,30 @@
+body{
+    background-color: #ffedd3;
+}
+.coffe{
+    width: 20vw;
+    height: 45vh;
+    border: 2px solid #451e036b;
+    background-color: #e4b26b;
+    border-radius: 10px;
+}
+
+.main{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.cafee{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
